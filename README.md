@@ -17,7 +17,7 @@ Check out the live version via GitHub Pages:
 ## 🚀 Features
 
 - YouTube-like UI clone
-- Responsive layout (if supported by styles)
+- Responsive layout 
 - Structured using semantic HTML elements
 - Simple CSS-only design (no frameworks or JavaScript)
 
